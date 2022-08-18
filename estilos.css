@@ -1,0 +1,60 @@
+.cabecalho{
+    background-image: url("imagens/banner2.png");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    width: 369px;
+    height: 548px;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 0;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 22px;
+}
+body{
+    text-align: center;
+    margin: 0;
+    background-image: url("imagens/fundo.png");
+}
+.rodape{
+    text-align: center;
+    margin: 0;
+    background-image: url("imagens/rodape.png");
+    width: 369px;
+    height: 99px;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+}
+.cabecalhopaginas{
+    background-image: url("imagens/banner2.png");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    width: 369px;
+    height: 191px;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 0;
+    padding-top: 5px;
+    padding-bottom: 22px;
+    text-align: right;
+}
+.imagem{
+    column-count: 2;
+    margin-right: 19px;
+    margin-left: 19px;
+    margin-top: 19px;
+
+}
+.texto{
+    text-align: justify;
+}
+.sinopse{
+    font-size: 18px;
+    text-align: justify;
+    width: 300px;
+}
